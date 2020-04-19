@@ -234,7 +234,7 @@ int main()
         th1.join();
     }
 
-    //condition_variable
+    //condition_variable(¼ûproject2)
     {
         std::thread threads[10];
         // spawn 10 threads:
